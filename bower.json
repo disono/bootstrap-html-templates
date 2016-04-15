@@ -1,0 +1,31 @@
+{
+  "name": "bootstrap-html-templates",
+  "homepage": "https://github.com/disono/bootstrap-html-templates",
+  "authors": [
+    "Archie <disonoarchie@gmail.com>"
+  ],
+  "description": "Bootstrap HTML Templates",
+  "main": "",
+  "keywords": [
+    "boostraps",
+    "html",
+    "templates"
+  ],
+  "license": "Apache 2.0",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.3",
+    "angular": "^1.5.4",
+    "moment": "momentjs#^2.12.0",
+    "react": "^15.0.1",
+    "bootstrap": "v4.0.0-alpha.2",
+    "font-awesome": "fontawesome#^4.6.1",
+    "Ionicons": "ionicons#^2.0.1"
+  }
+}
