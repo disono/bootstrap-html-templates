@@ -2,7 +2,6 @@
 
 // grab our gulp packages
 var gulp = require('gulp'),
-	g_util = require('gulp-util'),
 	imagemin = require('gulp-imagemin'),
 	concat = require('gulp-concat'),
 	stripDebug = require('gulp-strip-debug'),
